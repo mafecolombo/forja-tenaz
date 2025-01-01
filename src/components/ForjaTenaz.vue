@@ -1,7 +1,7 @@
 <template>
   <div class="main-div">
     <img class="logo-image" src="../assets/logo.svg" />
-    <div>
+    <div class="text">
       <p>“Há 437 anos oferecendo (quase) excelência na criação e aprimoramento de armas.”</p>
     </div>
     <div class="robot-image">
@@ -64,6 +64,10 @@
     margin-top: 1%;
     margin-bottom: 1%;
     height: 80px;
+  }
+
+  .text{
+    width: 70%;
   }
 
   .buttons {

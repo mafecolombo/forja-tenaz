@@ -18,12 +18,10 @@ export default {
 <style scoped>
 
 html, body, #app {
-  height: 100%;
-  width: 100%;
   margin: 0%;
   padding: 0;
   background-color: rgba(248, 237, 237, 1);
-  overflow-y: scroll;
+  overflow: scroll;
 }
 
 </style>
