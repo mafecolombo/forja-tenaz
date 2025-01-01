@@ -5,7 +5,7 @@
       <p>“Há 437 anos oferecendo (quase) excelência na criação e aprimoramento de armas.”</p>
     </div>
     <div class="robot-image">
-      <img src="../assets/image.png" alt="Robot working with mechanical arms and gears" />
+      <img src="../assets/robot.png" alt="Robot working with mechanical arms and gears" />
     </div>
     <div class="buttons">
       <RouterLink to="/regras"><button class="regras-button">REGRAS</button></RouterLink>
@@ -86,6 +86,14 @@
     width: 150px; /* Largura fixa para os botões */
     background-color: rgba(255, 123, 0, 1);
     color: rgba(248, 237, 237, 1);
+  }
+
+  .regras-button:hover{
+    background-color: rgba(23, 59, 69, 1);
+  }
+
+  .formulario-button:hover{
+    background-color: rgba(255, 123, 0, 1);
   }
 
   .formulario-button {
