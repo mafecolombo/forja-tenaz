@@ -13,8 +13,8 @@
 
 body{
   background-color: rgba(248, 237, 237, 1);
-  align-items: center;
-  justify-content: center;
+  overflow-y: auto;
+  overflow-x: auto;
 }
 
 </style>
