@@ -9,7 +9,7 @@
     </div>
     <div class="buttons">
       <RouterLink to="/regras"><button class="regras-button">REGRAS</button></RouterLink>
-      <button class="formulario-button">FORMULÁRIO</button>
+      <a href="https://forms.gle/W9jh4tffH1U16wyY7"><button class="formulario-button">FORMULÁRIO</button></a>
     </div>
     <footer><p class="footer-p">2024 © Mafê. All rights reserved.</p></footer>
   </div>
