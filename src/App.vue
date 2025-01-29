@@ -13,8 +13,6 @@
 
 body{
   background-color: rgba(248, 237, 237, 1);
-  overflow-y: auto;
-  overflow-x: auto;
 }
 
 </style>
