@@ -2,7 +2,7 @@
   <div class="main-div">
     <img class="logo-image" src="../assets/logo.svg" />
     <div class="text">
-      <p>“Há 437 anos oferecendo (quase) excelência na criação e aprimoramento de armas.”</p>
+      <p>“Há 456 anos oferecendo (quase) excelência na criação e aprimoramento de armas.”</p>
     </div>
     <div class="robot-image">
       <img src="../assets/robot.png" alt="Robot working with mechanical arms and gears" />
